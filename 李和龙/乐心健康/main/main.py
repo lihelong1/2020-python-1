@@ -13,7 +13,7 @@ class LexinSport:
         # 密码
         self.password = "aaa6121012aaa"
         # 修改步数
-        self.step = 90000
+        self.step = 40000
         # 用户id
         self.user_id = ''
         # 访问令牌
