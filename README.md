@@ -2,6 +2,14 @@
 2020-python
 
 
+# 题库
+
+https://leetcode-cn.com/problemset/all/
+
+https://pintia.cn/problem-sets/994805046380707840/problems/type/7
+
+https://pintia.cn/problem-sets/1111652100718116864/problems/type/7
+
 # python 视频
 
 链接：https://pan.baidu.com/s/1deFW86g-ksVDXwlp8YDMpQ 
@@ -17,6 +25,8 @@
 ![第二步](img/2.png)  
 
 3.![第三步](img/3.png)
+
+
 
 
 
